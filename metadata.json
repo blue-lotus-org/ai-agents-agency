@@ -1,0 +1,5 @@
+{
+  "name": "AI Agent Genesis",
+  "description": "An application that leverages AI to generate starter JavaScript code for AI agents based on user-provided task descriptions. The generated code can be copied and reused in other projects.",
+  "requestFramePermissions": []
+}
